@@ -112,6 +112,7 @@ form {
 
 .delete-button svg {
   transition: 200ms ease;
+  fill: #ffffff33;
 }
 
 .delete-button:hover svg {
